@@ -7,7 +7,7 @@
 
 2. Any issues you encountered:
 
-* I had problems setting up mhn cloud server. Also, this version of redis db was giving me some problem .
+* I had problems setting up mhn on cloud server. Also, this version of redis db was giving me some problem .
 
 
 3. Summary:
@@ -26,7 +26,6 @@
 - dionaea ( 1023 attacks)
 
 
-4. Any unresolved questions raised by the data collected:
-Nope
+4. Any unresolved questions raised by the data collected: No
 
 ![](https://github.com/baivabpokhrel/HoneyPot/blob/master/AttackReport.gif)
