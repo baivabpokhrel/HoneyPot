@@ -7,7 +7,7 @@
 
 2. Any issues you encountered:
 
-* I was unable to connect to the external IP after completing milestone 2. It wasn't until mid way of milestone 3 that I was able to connect to the external IP.
+* I had problems setting up mhn cloud server. Also, this version of redis db was giving me some problem .
 
 
 3. Summary:
@@ -29,4 +29,4 @@
 4. Any unresolved questions raised by the data collected:
 Nope
 
-![]()
+![](https://github.com/baivabpokhrel/HoneyPot/blob/master/AttackReport.gif)
